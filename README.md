@@ -48,3 +48,10 @@ Why?
 [15:06:45] PEAR: You are working on getting closer to your data leaked. That's what you are working on.
 [pending] : 2025-12-08
 [10:17:52] James007: Hello, so you want us to choose three files from this tree and how will you prove you have them?
+[pending] : 2025-12-10
+[11:01:28] James007: Pear
+[11:01:33] PEAR: > Choose for up to 3 files from the list and send us the file names. We'll send you those files back as proof of your data availability on our side
+What exactly from above you misunderstood?
+[11:01:33] PEAR: > Are you kidding
+??
+[11:01:33] PEAR: You continue going offline after each message sent. Feels like you find it a game. Okay then, let's play. But we set rules here, keep in mind. And they all are mentioned above. You breaking the rules bring your data to leaked.
